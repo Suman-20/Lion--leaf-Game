@@ -75,14 +75,14 @@ A fun and interactive HTML, CSS, and JavaScript based mini game where a **deer r
 
 ## 🙌 Acknowledgements
 
-Made with ❤️ by [Suman Raul](https://github.com/sumanraul74)
+Made with ❤️ by [Suman Raul]([https://github.com/sumanraul74](https://github.com/Suman-20/)
 
 ---
 
 ## 📬 Contact
 
 📧 Email: [sumanraul74@gmail.com](mailto:sumanraul74@gmail.com)  
-🔗 Portfolio: [menncare.vercel.app](https://menncare.vercel.app)  
+🔗 Portfolio: [https://merry-tartufo-5f7e8b.netlify.app/]  
 🔗 LinkedIn: [linkedin.com/in/sumanraul74](https://linkedin.com/in/sumanraul74)
 
 
